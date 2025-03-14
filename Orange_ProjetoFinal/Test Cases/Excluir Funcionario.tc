@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Excluir Funcionario</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>40b0bbd1-cff2-42ff-8845-83f7f4dcef30</testCaseGuid>
+</TestCaseEntity>

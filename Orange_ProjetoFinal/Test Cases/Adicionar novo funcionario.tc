@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Adicionar novo funcionario</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ccb1560-20b7-4102-b17f-f31c8d1d8c21</testCaseGuid>
+</TestCaseEntity>
