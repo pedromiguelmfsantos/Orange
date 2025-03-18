@@ -37,3 +37,5 @@ WebUI.waitForElementVisible(findTestObject('Page_OrangeHRM/p_Successfully Saved'
 
 WebUI.verifyElementText(findTestObject('Page_OrangeHRM/p_Successfully Saved'), 'Successfully Saved')
 
+WebUI.closeBrowser()
+
